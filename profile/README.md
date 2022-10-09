@@ -3,3 +3,4 @@
 ## Re-Dcrypt Cryptic Hunt
 
 A cryptic hunt in which you would face questions in any form. You need to use hints, Google & your out-of-the-box thinking skills to solve it.
+🥚: xerox
